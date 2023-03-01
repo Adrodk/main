@@ -1,0 +1,26 @@
+nav a{
+    font-size: 16px;
+    margin-left: -65px;
+}
+.img{
+    width: 100px;
+    margin-left: 50px;
+}
+.nav-link{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 800;
+}
+.navbar-nav a{
+    margin-left: 60px;
+}
+.carousel img{
+    height: 650px;
+}
+.navbar-brand{
+    color: rgb(99, 27, 1);
+}
+.navbar-brand span{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 55px;
+}
