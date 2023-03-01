@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Form Submit</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" />
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<h1>Fill out the form below.</h1>
+			</div>
+		</div>
+		<div class="row">
+			<form action="#">
+				<div class="col-xs-4">
+					<div class="form-group">
+						<label>First Name</label>
+						<input type="text" class="form-control" placeholder="First Name" name="firstName">
+					</div>
+				</div>
+				<div class="col-xs-4">
+					<div class="form-group">
+						<label>Last Name</label>
+						<input type="text" class="form-control" placeholder="Last Name" name="lastName">
+					</div>
+				</div>
+				<div class="col-xs-4">
+					<div class="form-group">
+						<label>Twitter Handle</label>
+						<input type="text" class="form-control" placeholder="Twitter Handle" name="twitterHandle">
+					</div>
+				</div>
+				<div class="col-xs-12">
+					<input type="submit" class="btn btn-block btn-primary">
+				</div>
+			</form>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<h1 class="displayName">First name, last name, and Twitter handle will show up here</h1>
+			</div>
+		</div>
+	</div>
+	<script src="main.js"></script>
+</body>
+</html>
