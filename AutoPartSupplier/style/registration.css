@@ -1,0 +1,68 @@
+.container{
+    width: 734px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: optima, sans-serif;
+}
+
+
+/* Logo */
+
+.logo{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+#clogo{
+    width: 205px;
+}
+
+/* End logo */
+
+
+
+/* Language flags */
+
+.languages{
+    float: right;
+    margin-top: -90px;
+}
+
+.login{
+    color: #343434;
+    float: right;
+}
+
+
+/* Start Footer */
+
+.hrline{
+    background-color: #000000;
+}
+
+    /*  */
+.flinks{
+    float: right;
+    margin-top: -30px;
+    
+}
+.flinks a{
+    color:#343434
+}
+.copy{
+    float: left;
+    color: #343434;
+    margin-top: -30px;
+}
+
+/* End footer */
+
+
+/* Start Form */
+#regform{
+    margin-left: -14px;
+}
+
+#regbtn{
+    background-color: #343434;
+    color: #ffffff;
+}

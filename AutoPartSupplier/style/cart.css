@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+.container{
+    width: 1024px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: optima, sans-serif;
+}
+/* Logo */
+
+.logo{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+#clogo{
+    width: 205px;
+}
+
+/* End logo */
+
+/* Language flags */
+
+.languages{
+    float: right;
+    margin-top: -90px;
+}
+
+.login{
+    color: #121212;
+    float: right;
+   
+}
+
+/* End flags */
+
+/* Cart */
+
+.hr_line_cart{
+    background-color: #b3d9ff;
+}
+.cart_title{
+    text-align: center;
+    padding-top: 40px;
+}
+.cart_text{
+    font-size: 14px;
+}
+.table_head{
+    width: 20%;
+    background-color: #b3d9ff;
+}
+
+
+
+/* #catalog_table{
+    background-color: #f0efef;
+    width: 100%;
+    border-radius: 5px;
+}
+#catalog_table th{
+    text-align: center;
+}
+#catalog_table td{
+    text-align: center;
+    font-size: 12px;
+}
+.cart_input{
+    width: 50px;
+    font-size: 8px;
+}
+.order_btn{
+    float: left;
+}
+.num_input{
+    margin-left: 30px;
+}
+
+
+
+
+End cart */
+
+
+
+/* Start Footer */
+
+.hrline{
+    background-color: #121212;
+}
+
+    /*  */
+.flinks{
+    float: right;
+    margin-top: -30px;
+    
+}
+.flinks a{
+    color:#343434
+}
+.copy{
+    float: left;
+    color: #121212;
+    margin-top: -30px;
+}
+
+/* End footer */

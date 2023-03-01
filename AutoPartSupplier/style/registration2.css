@@ -1,0 +1,113 @@
+/* MEDIA QUERY FORM SIZE */
+
+
+
+
+
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: optima, sans-serif;
+}
+
+
+/* Logo */
+
+.logo{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+#clogo{
+    width: 205px;
+}
+
+/* End logo */
+
+
+/* Language flags */
+
+.languages{
+    float: right;
+    margin-top: -90px;
+}
+
+.login{
+    color: #343434;
+}
+
+
+/* Start Footer */
+
+.hrline{
+    background-color: #000000;
+}
+
+    /*  */
+.flinks{
+    float: right;
+    margin-top: -30px;
+    
+}
+.flinks a{
+    color:#343434
+}
+.copy{
+    float: left;
+    color: #343434;
+    margin-top: -30px;
+}
+
+/* End footer */
+
+
+/* Start Form */
+#regform{
+    margin-left: -22px;
+    
+}
+#maincard{
+    background: rgb(236,241,242);
+    background: linear-gradient(90deg, rgba(236,241,242,1) 19%, rgba(233,245,247,1) 83%, rgba(246,253,254,1) 100%);
+}
+.formtitle{
+    font-size: 40px;
+    margin-top: -20px;
+    
+
+}
+.log_reg{
+    margin-left:50px;
+    margin-top: 10px;
+}
+#subbtn{
+    background-color: #343434;
+    color: #ffffff;
+}
+#logo2{
+    margin-left:400px;
+    margin-bottom:100px;
+    width: 130px;
+    position: absolute;
+}
+#logo3{
+    width: 200px;
+    margin-left: 600px;
+    position: absolute;
+}
+#logo4{
+    width: 150px;
+    margin-left: 630px;
+    margin-top: 180px;
+    position: absolute;
+}
+
+#logo6{
+    width: 250px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 200px;
+}
+
+/* End Form */

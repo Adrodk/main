@@ -1,0 +1,155 @@
+.container{
+    width: 734px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: optima, sans-serif;
+}
+/* Logo */
+
+.logo{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+#clogo{
+    width: 205px;
+}
+
+/* End logo */
+
+/* Language flags */
+
+.languages{
+    float: right;
+    margin-top: -90px;
+}
+
+.login{
+    color: #121212;
+    float: right;
+   
+}
+
+
+/* Navbar */
+
+.navbar{
+    background-color: #f0efef;
+    border-radius: 5px;
+}
+
+.nav-link{
+    margin-left: 15px;
+    color: #3d3d3d;
+}
+
+.search{
+    border: 1px solid #eeeeee;
+}
+
+
+/* End navbar */
+
+
+
+
+
+/* Start Footer */
+
+.hrline{
+    background-color: #121212;
+    clear: both;
+
+}
+
+    /*  */
+.flinks{
+    float: right;
+    margin-top: -30px;
+    
+}
+.flinks a{
+    color:#343434
+}
+.copy{
+    float: left;
+    color: #121212;
+    margin-top: -30px;
+}
+
+/* End footer */
+
+
+/* Catalog button */
+
+.catalog_anchor{
+    font-size: 22px;
+}
+#catalog_btn{
+    border: 0.5px solid #000000;
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    margin-top: -40px;
+    background: rgb(254,249,249);
+    background: linear-gradient(90deg, rgba(254,249,249,1) 0%, rgba(255,251,251,1) 94%, rgba(255,255,255,1) 100%);
+    border-radius: 0 0 40px 0;
+    font-weight: 300;
+    color: #3d3d3d;
+    
+}
+
+
+
+
+/* End catalog button */
+
+
+/* Service banner */
+
+.service_banner{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 3px;
+    padding-top: 20px;
+
+}
+
+
+/* End service banner */
+
+
+/* Body */
+
+.text_container h6{
+    font-weight: 700;
+    padding-top: 20px;
+    
+}
+.text_container p{
+    text-indent: 2em;
+    padding-top: 10px;
+}
+.img_p{
+    width: 60%;
+    float: left;
+    
+    
+}
+.img_car{
+    float: right;
+    width: 30%;
+}
+.text_container ul{
+    clear: both;
+    margin-left: 2em;
+    font-size:14px;
+}
+.img_map{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display: block;
+}
+
+/* End body */

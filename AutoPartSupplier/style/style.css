@@ -1,0 +1,243 @@
+
+
+
+
+
+@media (max-width: 960px){
+    #catalog_btn{
+        opacity: 0.5;
+    
+    }
+    
+}
+
+
+
+
+.container{
+    width: 734px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: optima, sans-serif;
+}
+/* Logo */
+
+.logo{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+#clogo{
+    width: 205px;
+}
+
+/* End logo */
+
+/* Language flags */
+
+.languages{
+    float: right;
+    margin-top: -90px;
+}
+
+.login{
+    color: #121212;
+    float: right;
+   
+}
+
+
+/* Navbar */
+
+
+
+.navbar{
+    background-color: #f0efef;
+    border-radius: 5px;
+}
+
+
+
+
+.nav-link{
+    margin-left: 15px;
+    color: #3d3d3d;
+}
+
+.search{
+    border: 1px solid #eeeeee;
+}
+
+
+/* End navbar */
+
+
+/* Start Seconday banner */
+
+
+.second_banner_image{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+
+/* End Secondary banner */
+
+
+/* Start Bodycontent */
+
+.bodycontent{
+    padding-top: 20px;
+    
+}
+
+    /*  */
+
+
+.parts{
+    padding-top: 20px;
+    width: 75%;
+    font-size: 14px;
+    display: -webkit-inline-box;
+}
+.parts a{
+
+    color: #121212;
+    font-synthesis: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.parts p{
+    margin-left: 10px;
+}
+
+
+.oe{
+    padding-top: 20px;
+    width: 75%;
+    font-size: 14px;
+    display: -webkit-inline-box;
+}
+.oe a{
+
+    color: #121212;
+    font-synthesis: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.oe p{
+    margin-left: 10px;
+}
+
+
+
+.sd{
+    padding-top: 20px;
+    width: 75%;
+    font-size: 14px;
+    display: -webkit-inline-box;
+
+}
+.sd a{
+
+    color: #121212;
+    font-synthesis: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.sd p{
+    margin-left: 10px;
+}
+
+
+
+.wti{
+    padding-top: 20px;
+    width: 75%;
+    font-size: 14px;
+    display: -webkit-inline-box;
+}
+.wti a{
+
+    color: #121212;
+    font-synthesis: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.wti p{
+    margin-left: 10px;
+}
+
+
+
+.careers{
+    padding-top: 20px;
+    width: 75%;
+    font-size: 14px;
+    display: -webkit-inline-box;
+}
+.careers a{
+
+    color: #121212;
+    font-synthesis: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.careers p{
+    margin-left: 10px;
+}
+
+        /*  */
+/* End Bodycontent */
+
+
+/* Start Footer */
+
+.hrline{
+    background-color: #121212;
+}
+
+    /*  */
+.flinks{
+    float: right;
+    margin-top: -30px;
+    
+}
+.flinks a{
+    color:#343434
+}
+.copy{
+    float: left;
+    color: #121212;
+    margin-top: -30px;
+}
+
+/* End footer */
+
+
+
+/* Catalog button */
+
+.catalog_anchor{
+    font-size: 22px;
+}
+#catalog_btn{
+    border: 0.5px solid #000000;
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    margin-top: -40px;
+    background: rgb(254,249,249);
+    background: linear-gradient(90deg, rgba(254,249,249,1) 0%, rgba(255,251,251,1) 94%, rgba(255,255,255,1) 100%);
+    border-radius: 0 0 40px 0;
+    font-weight: 300;
+    color: #3d3d3d;
+    
+}
+
+
+
+
+/* End catalog button */
