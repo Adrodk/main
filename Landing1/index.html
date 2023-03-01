@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Albert Dieter Rodriguez</title>  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <div class="container">
+  
+<nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" />
+      
+
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      
+      <ul id="menu" class="font-semibold font-xl">
+     
+      
+        <a href="#"><li class="text-center hover:rounded font-xl hover:animate-[pulse_2s_ease-in-out_infinite]">Home</li></a><br />
+        <a href="#"><li class="text-center hover:rounded font-xl hover:animate-[pulse_2s_ease-in-out_infinite]">Support</li></a><br/>
+        <a href="#"><li class="text-center hover:rounded font-xl hover:animate-[pulse_2s_ease-in-out_infinite]">Sign Up</li></a>
+        <p class="text-white mt-96 ml-28 hover:scale-150 hover:ease-in hover:delay-50">&copy;</p>
+     
+     
+        
+        
+      </ul>
+      
+    </div>
+  </nav>
+
+  <!-- end -->
+
+
+
+        <div class="p-1 text-center relative bg-no-repeat bg-cover" id="jumbotron-main">
+            <img src="images/toycar.svg" id="jumboimg" class="bg-blend-multiply opacity-100 overflow-hidden float-right">
+        </div>
+        <div class="p-10 relative float-right">
+            <h1 class="font-semibold text-slate-600 text-4xl md:text-5xl lg:text-7xl">Nurtur<span class="text-indigo-500 animate-[pulse_5s_ease-in-out_infinite] ">!</span>em</h1>
+            <p class="italic text-slate-500 text-xl md:text-2xl lg:text-4xl xl:text-5xl"><span class="text-indigo-600">'</span>Lorem ipsum dolor sit amet<span class="text-indigo-600">'</span></p>
+            <br>
+            <br>
+            <br />
+            <!-- invisible sm -->
+            <div class="container invisible xl:visible absolute ml-5">
+                <div class="box invisible md:visible lg:ml-1 md:ml-10 md:p-10">
+                    <!-- <p class="invisible">Lorem ipsum dolor sit amet</p> -->
+                    <div class="typewriter">
+                        <h1>Te amo con todo mi corazon eres el amor de mi vida<span class="text-indigo-600">!</span> </h1>
+                    </div>
+
+                </div>
+            <!-- invisible sm end -->
+            </div>
+
+            <button class="btn btn-1 hover-filled-slide-up invisible md:visible mt-80 md:ml-48 absolute lg:ml-80">
+                <span>Sign up!</span>
+              </button>
+
+            <!-- <div class="container invisible md:invisible mt-40 absolute" id="mobilebox">
+                <div class="box invisible md:invisible">
+
+                </div>
+
+            
+            </div> -->
+            
+     
+       
+    </div>
+
+    <button class="btn btn-1 hover-filled-slide-up visible md:invisible absolute lg:ml-80" id="btnsm">
+        <span>Sign up!</span>
+      </button>
+</body>
+</html>
